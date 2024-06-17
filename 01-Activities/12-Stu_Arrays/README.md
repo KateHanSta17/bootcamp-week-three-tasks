@@ -16,7 +16,7 @@ Work with a partner to implement the following user story:
 
 ## 💡 Hints
 
-What is the first index in an array: `0` or `1`?
+What is the first index in an array: `0` or `1`? * 0 *
 
 ## 🏆 Bonus
 
